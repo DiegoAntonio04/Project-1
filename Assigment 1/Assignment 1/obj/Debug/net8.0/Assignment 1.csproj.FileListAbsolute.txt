@@ -1,0 +1,14 @@
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\obj\Debug\net8.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\obj\Debug\net8.0\Assignment 1.AssemblyInfoInputs.cache
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\obj\Debug\net8.0\Assignment 1.AssemblyInfo.cs
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\obj\Debug\net8.0\Assignment 1.csproj.CoreCompileInputs.cache
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\bin\Debug\net8.0\Assignment 1.exe
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\bin\Debug\net8.0\Assignment 1.deps.json
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\bin\Debug\net8.0\Assignment 1.runtimeconfig.json
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\bin\Debug\net8.0\Assignment 1.dll
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\bin\Debug\net8.0\Assignment 1.pdb
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\obj\Debug\net8.0\Assignment 1.dll
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\obj\Debug\net8.0\refint\Assignment 1.dll
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\obj\Debug\net8.0\Assignment 1.pdb
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\obj\Debug\net8.0\Assignment 1.genruntimeconfig.cache
+c:\Users\hp\Desktop\Learning Materials\Proj\Project 1\Assigment 1\Assignment 1\obj\Debug\net8.0\ref\Assignment 1.dll
